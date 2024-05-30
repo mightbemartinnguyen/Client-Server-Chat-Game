@@ -35,7 +35,7 @@ Extend the client-server chat into a multiplayer ASCII game (e.g., Tic-tac-toe, 
 ## How to Run the Project
 
 ### Requirements
-- Python 3.x
+- Python
 
 ### Running the Server
 1. Open a terminal.
@@ -58,22 +58,16 @@ Extend the client-server chat into a multiplayer ASCII game (e.g., Tic-tac-toe, 
 - To exit the game or chat, type `/q`.
 
 ## Technologies Used
-- Python 3.x
+- Python 
 - Socket programming
 - TCP/IP
-
-## Example Screenshots
-Include screenshots of your running code here.
 
 ## Sources
 - [Python Sockets Documentation](https://docs.python.org/3.4/howto/sockets.html)
 - [Real Python: Python Sockets](https://realpython.com/python-sockets/)
 
-## Comments/Questions
-(Optional)
-
 ## Authors
-- Your Name
+- Martin Nguyen
 
 ## License
 This project is licensed under the MIT License.
